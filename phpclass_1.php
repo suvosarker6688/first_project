@@ -8,7 +8,7 @@ $details = "loremasdjfblkm";
 print_r($details);
 
 
-$address ="dhaka bangladesh";
+$address ="ulipur,kurigram,rangpur, bangladesh";
 echo($address);
 
 ?>
